@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">sub-manager</string>
+    <string name="title_activity_main">sub-manager</string>
+    <string name="package_name">com.sibin.subman</string>
+    <string name="custom_url_scheme">com.sibin.subman</string>
+</resources>
